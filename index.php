@@ -215,7 +215,7 @@ div.copyright {
 </div>
 
 	<ol>
-				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_report/resources/PhD_icipe_Annual_Report_Form_2018.docx"><b> Annual Report Form</b></a>.</p></li>	
+				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_report/resources/PhD_icipe_Annual_Report_Form_2020.docx"><b> Annual Report Form</b></a>.</p></li>	
 				<li><p>Complete PART 1 of the form, and sign and date.</p></li>
 				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 20th 2020</b>.</p></li>
 				<li><p>Discuss the report with your supervisors.</p></li>
@@ -228,9 +228,9 @@ div.copyright {
 					<h4>Instructions For Uploading The Report</h4>
 				</div>
 	<ol>
-				<li><p><b></b>Go <a target="_blank" href="http://cbid.icipe.org/apps/cbid/forms/phd_annual_report_2018.php"> <span><b>HERE</b></span></a> to upload the completed 2018 Annual Report.</p>
+				<li><p><b></b>Go <a target="_blank" href="http://cbid.icipe.org/apps/cbid/forms/phd_annual_report_2020.php"> <span><b>HERE</b></span></a> to upload the completed 2020 Annual Report.</p>
 				<p>Accepted file formats are: doc, docx or pdf. The file size limit is 5 MB.</p></li>
-				<li><p>Once you have entered your information and uploaded the 2018 Annual Report, click the <b>Continue</b> button.</p></li>  
+				<li><p>Once you have entered your information and uploaded the 2020 Annual Report, click the <b>Continue</b> button.</p></li>  
 				<li><p>	This will take you to the <b>Review your Entries</b> page where you can change anything.</p></li>
 				<li><p>When you are satisfied with your information and upload, click the <b>Continue</b> button to submit your 2020 Annual Report.</p></li> 
        				 <p>This cannot be undone, so please make sure your information is correct before submitting.</p></li>
