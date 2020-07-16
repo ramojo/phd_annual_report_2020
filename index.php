@@ -196,7 +196,7 @@ div.copyright {
 <!--					<h1>PhD Annual Report</h1>-->
 			<p>All icipe PhD scholars who have not yet successfully defended their thesis must prepare an annual report. The purpose of the report is to assess progress through the programme in relation to clearly articulated expectations and milestones, and give scholars feedback on their progress.</p>
 				
-			<p>You can download an Annual Report Form here: <a href="http://cbid.icipe.org/apps/phd_report/resources/PhD_icipe_Annual_Report_Form_2020.docx
+			<p>You can download an Annual Report Form here: <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020.docx
 "><b>Annual Report Form</b></a><p>
 
 			<p>The form consists of three parts. Part 1 is to be completed by the PhD Scholar; Part 2 by the Primary icipe Supervisor; and Part 3 by the Primary University Supervisor.</p>
@@ -215,7 +215,7 @@ div.copyright {
 </div>
 
 	<ol>
-				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_report/resources/PhD_icipe_Annual_Report_Form_2020.docx"><b> Annual Report Form</b></a>.</p></li>	
+				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020.docx"><b> Annual Report Form</b></a>.</p></li>	
 				<li><p>Complete PART 1 of the form, and sign and date.</p></li>
 				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 20th 2020</b>.</p></li>
 				<li><p>Discuss the report with your supervisors.</p></li>
