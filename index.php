@@ -217,7 +217,7 @@ div.copyright {
 	<ol>
 				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020.docx"><b> Annual Report Form</b></a>.</p></li>	
 				<li><p>Complete PART 1 of the form, and sign and date.</p></li>
-				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 20th 2020</b>.</p></li>
+				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 30th 2020</b>.</p></li>
 				<li><p>Discuss the report with your supervisors.</p></li>
 				<li><p>.Ask your supervisors to complete, sign and date their respective part (PART 2: <em>icipe</em> Supervisor; PART 3: University Supervisor), and return to you by <u>August 7th 2020</u>. </p></li>
 				<li><p>Compile all parts of the report (PARTs 1, 2 and 3) into a single Word document.</p></li>
