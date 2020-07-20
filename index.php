@@ -262,11 +262,11 @@ div.copyright {
 
 			<li class="list-group-item">14th August 2020: Deadline for uploading the report onto online platform.</li>
 
-			<li class="list-group-item">1st October 2020: Report forms submitted to IBTPS for review.</li>
+			<li class="list-group-item">1st September 2020: Report forms submitted to IBTPS for review.</li>
 
 			<!--<li class="list-group-item">16th December: All completed report forms submitted to IBTPS for report</li>-->
 
-			<li class="list-group-item">November 2020: IBTPS meet to discuss the annual reports and make recommendations.</li>
+			<li class="list-group-item">21st September 2020: IBTPS meet to discuss the annual reports and make recommendations.</li>
 		 </ul>
         </div><!-- /.col-sm-4 -->
 
