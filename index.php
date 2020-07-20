@@ -196,7 +196,7 @@ div.copyright {
 <!--					<h1>PhD Annual Report</h1>-->
 			<p>All icipe PhD scholars who have not yet successfully defended their thesis must prepare an annual report. The purpose of the report is to assess progress through the programme in relation to clearly articulated expectations and milestones, and give scholars feedback on their progress.</p>
 				
-			<p>You can download an Annual Report Form here: <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020.docx
+			<p>You can download an Annual Report Form here: <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020_RS1.docx
 "><b>Annual Report Form</b></a><p>
 
 			<p>The form consists of three parts. Part 1 is to be completed by the PhD Scholar; Part 2 by the Primary icipe Supervisor; and Part 3 by the Primary University Supervisor.</p>
@@ -215,9 +215,9 @@ div.copyright {
 </div>
 
 	<ol>
-				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020.docx"><b> Annual Report Form</b></a>.</p></li>	
+				<li><p>Download the <a href="http://cbid.icipe.org/apps/phd_annual_report_2020/resources/PhD_icipe_Annual_Report_Form_2020_RS1.docx"><b> Annual Report Form</b></a>.</p></li>	
 				<li><p>Complete PART 1 of the form, and sign and date.</p></li>
-				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 30th 2020</b>.</p></li>
+				<li><p>After completing PART 1, send the <u>entire</u> form as a Word document to your <em>icipe</em> Primary Supervisor and your University Primary Supervisor by <b>July 31st 2020</b>.</p></li>
 				<li><p>Discuss the report with your supervisors.</p></li>
 				<li><p>.Ask your supervisors to complete, sign and date their respective part (PART 2: <em>icipe</em> Supervisor; PART 3: University Supervisor), and return to you by <u>August 7th 2020</u>. </p></li>
 				<li><p>Compile all parts of the report (PARTs 1, 2 and 3) into a single Word document.</p></li>
@@ -244,7 +244,7 @@ div.copyright {
 		<p style="padding-left:2em"><b>Q:</b> I cannot upload my Annual Report. What is wrong?</p>
 
 					<p style="padding-left:2em"><b>A:</b>(1) Your file may be too large. The maximum file size is 5 MB.</p>
-					<p style="padding-left:2em"><b>A:</b>(2) Perhaps you are trying to upload a file that is not one of the accepted file formats (accepted formats: doc, docx)</p>
+					<p style="padding-left:2em"><b>A:</b>(2) Perhaps you are trying to upload a file that is not one of the accepted file formats (accepted formats: doc, docx, pdf)</p>
 
 					
 
@@ -254,9 +254,9 @@ div.copyright {
 <div class="row" style="center">
         <div class="col-sm-9">
           <ul class="list-group">
-			<li class="list-group-item">18th July 2020: Announcement of annual report process.</li>
+			<li class="list-group-item">20th July 2020: Announcement of annual report process.</li>
 
-			<li class="list-group-item">30th July 2020: Deadline for completion of report form by scholar (self-assessment).</li>
+			<li class="list-group-item">31st July 2020: Deadline for completion of report form by scholar (self-assessment).</li>
 
 			<li class="list-group-item">7th August 2020: Deadline for completion of report by the supervisors.</li>
 
@@ -303,7 +303,7 @@ div.copyright {
                 <td>Scholar is failing to meet in a significant manner one or more expectations associated with the programme. Specific reasons for this rating will be identified in the IBTPS report.</td>
                 <td><ul><li>Scholar meets with her/his primary supervisors to discuss concerns mentioned in the IBTPS report and to make plans to address those concerns.</li>
                 <li>Within 4 weeks of receipt of the IBTPS Report, the scholar must submit to CB&ID a letter explaining what she/he is doing to improve her/his performance in the programme, together with a revised work plan.</li>
-                <li>Mid-term report: The scholar will submit a mid-term report by March 31st of the following year. If the IBTPS rates a scholar’s progress as Probation in two report cycles, she/he may be asked to discontinue enrollment in the programme.</li></ul></td>
+                <li>Mid-term report: The scholar will submit a mid-term report by January 31st of the following year. If the IBTPS rates a scholar’s progress as Probation in two report cycles, she/he may be asked to discontinue enrollment in the programme.</li></ul></td>
               </tr>
             </tbody>
           </table>
